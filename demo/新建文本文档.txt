@@ -1,0 +1,6 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+
+算法对于python确实有点慢
+不过在应用方面python还是可以的。
+所以可以继续学下去。
